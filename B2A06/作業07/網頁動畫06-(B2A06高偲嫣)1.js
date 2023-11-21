@@ -393,7 +393,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/網頁動畫06_B2A06高偲嫣_1_atlas_1.png?1700559617695", id:"網頁動畫06_B2A06高偲嫣_1_atlas_1"}
+		{src:"images/網頁動畫06_B2A06高偲嫣_1_atlas_1.png?1700563343466", id:"網頁動畫06_B2A06高偲嫣_1_atlas_1"}
 	],
 	preloads: []
 };
