@@ -3,7 +3,7 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"網頁動畫06_B2A06高偲嫣_1 _1__atlas_1", frames: [[0,0,1055,659]]}
+		{name:"網頁動畫06_B2A06高偲嫣_1_atlas_1", frames: [[0,0,1055,659]]}
 ];
 
 
@@ -28,7 +28,7 @@ lib.ssMetadata = [
 
 
 (lib.春到了jpg複製 = function() {
-	this.initialize(ss["網頁動畫06_B2A06高偲嫣_1 _1__atlas_1"]);
+	this.initialize(ss["網頁動畫06_B2A06高偲嫣_1_atlas_1"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -357,7 +357,7 @@ p.nominalBounds = new cjs.Rectangle(-70.5,-93.1,153.1,155.3);
 
 
 // stage content:
-(lib.網頁動畫06B2A06高偲嫣11 = function(mode,startPosition,loop,reversed) {
+(lib.網頁動畫06B2A06高偲嫣1 = function(mode,startPosition,loop,reversed) {
 if (loop == null) { loop = true; }
 if (reversed == null) { reversed = false; }
 	var props = new Object();
@@ -393,7 +393,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/網頁動畫06_B2A06高偲嫣_1 _1__atlas_1.png?1700566653232", id:"網頁動畫06_B2A06高偲嫣_1 _1__atlas_1"}
+		{src:"images/網頁動畫06_B2A06高偲嫣_1_atlas_1.png?1700637676783", id:"網頁動畫06_B2A06高偲嫣_1_atlas_1"}
 	],
 	preloads: []
 };
